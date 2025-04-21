@@ -3,7 +3,7 @@
 This project simulates a lightweight **Enterprise Resource Planning (ERP)** dashboard using **Microsoft Excel**. It mimics the core functionality of systems like **Infor SX.e** or **CloudSuite Distribution**, focusing on product insights, sales, purchasing, and supplier operations.
 
 ## 📊 Dashboard Preview
-![ERP Dashboard Screenshot](./screenshots/dashboard-overview.png)
+![ERP Dashboard Screenshot](./dashboard-overview.png)
 
 ---
 
